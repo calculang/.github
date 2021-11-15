@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+calculang is a language for calculations.
+
+:hatching_chick: check [this ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models.
+
 <!--
 
 **Here are some ideas to get you started:**
