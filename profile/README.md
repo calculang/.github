@@ -4,6 +4,8 @@ calculang is a language for calculations.
 
 :hatching_chick: check [this ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models.
 
+calculang office hours: [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20)
+
 <!--
 
 **Here are some ideas to get you started:**
