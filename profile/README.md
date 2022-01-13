@@ -2,9 +2,13 @@
 
 calculang is a language for calculations.
 
-:hatching_chick: check [this ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models.
+#### 🐣 early highlights ⚡
 
-calculang office hours: [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20)
+- [some SaaS cashflows 💸](https://observablehq.com/@declann/some-cashflows?collection=@declann/calculang)
+- [loan validator 🕵️ (dev 📓)](https://observablehq.com/@declann/loan-validator-dev?collection=@declann/calculang)
+- more on [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang)
+
+📫 for calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20).
 
 <!--
 
