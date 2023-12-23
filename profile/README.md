@@ -2,12 +2,7 @@
 
 calculang is a language for calculations.
 
-Interact with some models made with ❤️ and calculang:
-
-- [Pension Calculator 🧓👴 🚧](https://observablehq.com/@declann/pensions-calculator-wip?collection=@declann/calculang)
-- [some SaaS cashflows 💸](https://observablehq.com/@declann/some-cashflows?collection=@declann/calculang)
-- [loan validator 🕵️ (dev 📓)](https://observablehq.com/@declann/loan-validator-dev?collection=@declann/calculang)
-- more in [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) including ferns, donuts and pi estimation models!
+Visit [calculang.dev](https://calculang.dev) for the official website and examples!
 
 ## follow calculang 📫
 
