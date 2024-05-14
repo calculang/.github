@@ -8,7 +8,7 @@ Visit [calculang.dev](https://calculang.dev) for the official website and exampl
 
 For calculang updates follow [@calculang](https://twitter.com/calculang) on Twitter, or follow [@calculang@fosstodon.org](https://fosstodon.org/@calculang) from any(!) [Mastodon](https://joinmastodon.org/) server 🐘
 
-For calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20).
+<!-- For calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20). -->
 
 <!--
 
