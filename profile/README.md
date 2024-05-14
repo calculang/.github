@@ -4,6 +4,8 @@ calculang is a language for calculations.
 
 Visit [calculang.dev](https://calculang.dev) for the official website and examples!
 
+I post about calculang and sometimes models using calculang on my [CalcWithDec](https://calcwithdec.dev/) blog.
+
 ## follow calculang 📫
 
 For calculang updates follow [@calculang](https://twitter.com/calculang) on Twitter, or follow [@calculang@fosstodon.org](https://fosstodon.org/@calculang) from any(!) [Mastodon](https://joinmastodon.org/) server 🐘
